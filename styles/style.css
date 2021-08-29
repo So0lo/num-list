@@ -1,0 +1,15 @@
+.main {
+    margin: 100px auto;
+    border: 3px solid grey;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+}
+
+.main_wrapper {
+    padding-top: 20px;
+}
+
+.border {
+    border: 3px solid blue;
+}
